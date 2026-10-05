@@ -1,0 +1,4 @@
+{
+  "_note": "Optional. Your own place -> [lat, lon] list. It always beats the online lookup. Add a place here whenever OpenStreetMap gets it wrong or can't find it. Names are case-insensitive; Devanagari works. Get coordinates by right-clicking the spot in Google Maps and copying the two numbers.",
+  "_example": "\"seven loves chowk\": [18.0000, 73.0000]"
+}

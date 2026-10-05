@@ -1,0 +1,17 @@
+{
+  "note": "Only verified individual public post URLs should be placed here. Official profile URLs are source links in the UI, not news items. No Meta token or scraping is used.",
+  "posts": [
+    {
+      "source": "instagram",
+      "url": "https://www.instagram.com/p/DNqUcHKq0Ov/",
+      "text": "Pune Municipal Corporation update: draft ward structure announcement. Official PMC Instagram post.",
+      "posted_at": "2025-08-22",
+      "ward": "Pune"
+    },
+    {
+      "source": "instagram",
+      "url": "https://www.instagram.com/pmccarepune/p/Dd6bubGiFme/",
+      "text": "स्वच्छता ही सेवा २०२६ अभियानाच्या अंतर्गत 'एक दिवस, एक तास, एक साथ' श्रमदान अभियान\n\nदि. १७ सप्टेंबर ते ०२ ऑक्टोबर २०२६ या कालावधीत पुणे महानगरपालिकेच्या वतीने 'स्वच्छता ही सेवा' अभियान राबविण्यात येत आहे. या अभियानाचा एक भाग म्हणून आज दि. ०१ ऑक्टोबर २०२६ रोजी कसबा पेठ क्षेत्रीय कार्यालयाच्या कार्यक्षेत्रात 'एक दिवस, एक तास, एक साथ' श्रमदान अभियान राबविण्यात आले. या अंतर्गत सेवन लव्ह्ज चौक ते संत कबीर चौक"
+    }
+  ]
+}

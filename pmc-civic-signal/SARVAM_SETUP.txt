@@ -1,0 +1,29 @@
+PMC CIVIC SIGNAL — SARVAM AI SETUP
+==================================
+
+1. Install dependencies:
+   pip install -r requirements.txt
+
+2. Create a Sarvam API key from the Sarvam AI dashboard.
+
+3. Put it in an environment variable (do NOT hard-code it in HTML/JS):
+   Windows CMD:
+     set SARVAM_API_KEY=YOUR_KEY
+   Windows PowerShell:
+     $env:SARVAM_API_KEY="YOUR_KEY"
+   macOS/Linux:
+     export SARVAM_API_KEY="YOUR_KEY"
+
+   You can also copy .env.example to .env if your own launcher loads .env.
+   This project intentionally does not commit a real key.
+
+4. Restart the server and run POST /api/ingest (or restart the server).
+
+Sarvam is optional. Without the key, English/Marathi/Hindi hashtag and keyword
+rules still classify posts. With the key, Marathi/Hindi/Devanagari posts are
+language-detected and translated to English before a second classification pass.
+The original post text is always preserved.
+
+Official docs:
+https://docs.sarvam.ai/api-reference/text/identify-language
+https://docs.sarvam.ai/api-reference/text/translate-text

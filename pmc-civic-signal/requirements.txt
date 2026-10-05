@@ -1,0 +1,12 @@
+fastapi
+uvicorn[standard]
+shapely
+requests
+feedparser
+
+# Optional AI providers
+google-genai
+anthropic
+
+# Optional multilingual Indic AI enrichment
+sarvamai

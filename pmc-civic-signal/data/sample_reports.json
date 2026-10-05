@@ -1,0 +1,20 @@
+{
+  "note": "Seed/demo posts, written for this project - not scraped from real accounts. Used by ingestion.sources.MockSource so the app has something to show before real API credentials are configured.",
+  "reports": [
+    {"source": "instagram", "lat": 18.585, "lon": 73.785, "text": "Baner Rd underpass flooded again after 20 min rain, bikes stalling every monsoon evening.", "posted_at": "2026-09-20T18:40:00"},
+    {"source": "x", "lat": 18.582, "lon": 73.79, "text": "Traffic backed up till Aundh chowk because of the same pothole cluster near DP road.", "posted_at": "2026-09-21T09:10:00"},
+    {"source": "google_maps", "lat": 18.578, "lon": 73.783, "text": "Broken storm drain cover near the ITI junction, dangerous for two-wheelers.", "posted_at": "2026-09-19T14:00:00"},
+    {"source": "facebook", "lat": 18.515, "lon": 73.805, "text": "Bin outside the Kothrud vegetable market hasn't been cleared in four days, smell is unbearable.", "posted_at": "2026-09-21T07:30:00"},
+    {"source": "instagram", "lat": 18.512, "lon": 73.81, "text": "Stray dogs scattering waste across the Kothrud Depot signal every morning.", "posted_at": "2026-09-20T08:15:00"},
+    {"source": "x", "lat": 18.475, "lon": 73.795, "text": "Entire stretch near Warje flyover has been dark for a week, feels unsafe walking back.", "posted_at": "2026-09-22T20:00:00"},
+    {"source": "instagram", "lat": 18.48, "lon": 73.80, "text": "Low water pressure again in Karve Nagar lanes 3 and 4 since Monday.", "posted_at": "2026-09-21T11:00:00"},
+    {"source": "x", "lat": 18.535, "lon": 73.855, "text": "JM Road to Ganesh Peth is bumper to bumper every evening, signal timing seems off.", "posted_at": "2026-09-19T18:20:00"},
+    {"source": "google_maps", "lat": 18.53, "lon": 73.86, "text": "Illegal parking blocking the market entrance lane near Appa Balwant Chowk.", "posted_at": "2026-09-18T16:00:00"},
+    {"source": "facebook", "lat": 18.575, "lon": 73.885, "text": "Sewage line burst near Vishrantwadi bridge, water mixing with the storm drain since yesterday.", "posted_at": "2026-09-22T10:00:00"},
+    {"source": "instagram", "lat": 18.505, "lon": 73.915, "text": "Hadapsar Gaothan junction under a foot of water within 15 minutes of rain.", "posted_at": "2026-09-22T19:00:00"},
+    {"source": "x", "lat": 18.51, "lon": 73.92, "text": "Garbage collection truck skipped Satavwadi lane again this week.", "posted_at": "2026-09-21T09:45:00"},
+    {"source": "facebook", "lat": 18.465, "lon": 73.885, "text": "Third week of thin water supply in NIBM Road society clusters, tankers being called privately.", "posted_at": "2026-09-20T12:00:00"},
+    {"source": "x", "lat": 18.555, "lon": 73.93, "text": "Kharadi bypass to EON is a parking lot every evening 6-8pm.", "posted_at": "2026-09-22T18:30:00"},
+    {"source": "google_maps", "lat": 18.55, "lon": 73.935, "text": "Pothole belt on the service road near the IT park gate, three reviews this month.", "posted_at": "2026-09-17T15:00:00"}
+  ]
+}

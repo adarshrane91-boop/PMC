@@ -1,0 +1,72 @@
+{
+  "generated_at": "2026-10-02T08:45:23.579436+00:00",
+  "sources_used": [
+    "PublicSocialSource"
+  ],
+  "report_count": 2,
+  "citywide_count": 2,
+  "reports": [
+    {
+      "id": "cb1b025fdf4fa99c656d",
+      "source": "instagram",
+      "source_name": "PMC Pune · Instagram",
+      "text": "Pune Municipal Corporation update: draft ward structure announcement. Official PMC Instagram post.",
+      "posted_at": "2025-08-22",
+      "created_at": "2025-08-22T00:00:00+00:00",
+      "category": "other",
+      "category_label": "General PMC Update",
+      "category_label_native": "सामान्य PMC अपडेट",
+      "matched_terms": [],
+      "language": "en",
+      "translated_text": null,
+      "lang": "en",
+      "summary_en": null,
+      "location_hint": null,
+      "places": [],
+      "geocoded_place": null,
+      "ward_id": null,
+      "ward_name": "PMC-wide",
+      "lat": null,
+      "lon": null,
+      "location_precision": "citywide",
+      "location_source": "no_specific_ward",
+      "embed": true,
+      "url": "https://www.instagram.com/p/DNqUcHKq0Ov/",
+      "media_url": null,
+      "instagram_author": null,
+      "instagram_discovery": null
+    },
+    {
+      "id": "689a7b295ce4b7741f19",
+      "source": "instagram",
+      "source_name": "PMC Pune · Instagram",
+      "text": "स्वच्छता ही सेवा २०२६ अभियानाच्या अंतर्गत 'एक दिवस, एक तास, एक साथ' श्रमदान अभियान\n\nदि. १७ सप्टेंबर ते ०२ ऑक्टोबर २०२६ या कालावधीत पुणे महानगरपालिकेच्या वतीने 'स्वच्छता ही सेवा' अभियान राबविण्यात येत आहे. या अभियानाचा एक भाग म्हणून आज दि. ०१ ऑक्टोबर २०२६ रोजी कसबा पेठ क्षेत्रीय कार्यालयाच्या कार्यक्षेत्रात 'एक दिवस, एक तास, एक साथ' श्रमदान अभियान राबविण्यात आले. या अंतर्गत सेवन लव्ह्ज चौक ते संत कबीर चौक",
+      "posted_at": null,
+      "created_at": null,
+      "category": "garbage",
+      "category_label": "Garbage / Waste",
+      "category_label_native": "कचरा / घनकचरा",
+      "matched_terms": [
+        "स्वच्छता"
+      ],
+      "language": "mr",
+      "translated_text": null,
+      "lang": "mr",
+      "summary_en": null,
+      "location_hint": null,
+      "places": [],
+      "geocoded_place": null,
+      "ward_id": null,
+      "ward_name": "PMC-wide",
+      "lat": null,
+      "lon": null,
+      "location_precision": "citywide",
+      "location_source": "no_specific_ward",
+      "embed": true,
+      "url": "https://www.instagram.com/pmccarepune/p/Dd6bubGiFme/",
+      "media_url": null,
+      "instagram_author": null,
+      "instagram_discovery": null
+    }
+  ]
+}
